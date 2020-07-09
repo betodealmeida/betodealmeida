@@ -9,4 +9,4 @@ My name is Beto Dealmeida
 - 💬 Ask me about my music! I have a one-person band called [The Fishermen & the Priestess](https://thefishermenandthepriestess.com/), and I make music using open source software.
 - 📫 How to reach me: email is better. You can find me at $firstname@$lastname.net.
 - 😄 Pronouns: they/them/theirs
-- ⚡ Fun fact: my signature is an ambigram, identical after an 180 degrees. It's also readable! :)
+- ⚡ Fun fact: my signature is an ambigram, identical after a 180 degrees rotation. It's also readable!
