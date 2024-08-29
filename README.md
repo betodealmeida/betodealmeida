@@ -2,4 +2,4 @@
 
 My name is Beto Dealmeida.
 
-You can follow me on <a rel="nofollow me" href="https://2c.taoetc.org/@beto">Mastodon</a>.
+I try to make data invisible. Nobody should have to think about "data". They should have tools that allow them to ask questions and have answers in less than a nanocentury.
